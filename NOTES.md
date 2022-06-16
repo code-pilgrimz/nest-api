@@ -4,3 +4,4 @@
 - tidy up
 - left a note for myself
 - check perf here
+- minor wording
