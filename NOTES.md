@@ -8,3 +8,4 @@
 - revisit later
 - TODO clean this
 - minor wording
+- check perf here
