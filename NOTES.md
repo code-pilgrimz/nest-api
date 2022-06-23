@@ -9,3 +9,4 @@
 - TODO clean this
 - minor wording
 - check perf here
+- left a note for myself
