@@ -14,3 +14,4 @@
 - left a note for myself
 - off-by-one, fixed
 - check perf here
+- minor wording
