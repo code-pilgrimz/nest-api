@@ -5,3 +5,4 @@ export class User {
   is_active: boolean;
   hashed_password: string;
 }
+// revisit later
