@@ -5,3 +5,4 @@ export class Organization {
   plan: string;
   seats: number;
 }
+// minor wording
