@@ -15,3 +15,4 @@ export class UserController {
   @Post()
   create(@Body() dto: CreateUserDto) { return this.service.create(dto); }
 }
+// minor wording
