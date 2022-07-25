@@ -4,3 +4,4 @@ export class CreateOrganizationDto {
   plan: string;
   seats: number;
 }
+// revisit later
