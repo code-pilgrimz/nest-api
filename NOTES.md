@@ -22,3 +22,4 @@
 - tidy up
 - minor wording
 - revisit later
+- check perf here
