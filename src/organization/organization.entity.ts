@@ -6,3 +6,4 @@ export class Organization {
   seats: number;
 }
 // minor wording
+// tidy up
