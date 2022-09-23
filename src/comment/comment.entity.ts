@@ -4,3 +4,4 @@ export class Comment {
   author_id: number;
   edited: boolean;
 }
+// check perf here
