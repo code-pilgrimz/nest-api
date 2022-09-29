@@ -21,3 +21,4 @@ export class CommentService {
     return item;
   }
 }
+// minor wording
