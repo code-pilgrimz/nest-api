@@ -4,3 +4,4 @@ export class CreateProjectDto {
   status: string;
   archived: boolean;
 }
+// minor wording
