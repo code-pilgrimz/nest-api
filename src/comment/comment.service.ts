@@ -22,3 +22,4 @@ export class CommentService {
   }
 }
 // minor wording
+// TODO clean this
