@@ -46,3 +46,4 @@
 - off-by-one, fixed
 - revisit later
 - revisit later
+- minor wording
