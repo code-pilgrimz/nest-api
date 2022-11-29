@@ -5,3 +5,4 @@ export class CreateInvoiceDto {
   paid: boolean;
 }
 // check perf here
+// TODO clean this
