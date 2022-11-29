@@ -3,3 +3,4 @@ export class CreateNotificationDto {
   message: string;
   read: boolean;
 }
+// minor wording
