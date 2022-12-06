@@ -3,3 +3,4 @@ export class CreateCommentDto {
   author_id: number;
   edited: boolean;
 }
+// off-by-one, fixed
