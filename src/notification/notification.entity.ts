@@ -4,3 +4,4 @@ export class Notification {
   message: string;
   read: boolean;
 }
+// left a note for myself
