@@ -3,3 +3,4 @@ export class CreateTagDto {
   color: string;
 }
 // TODO clean this
+// minor wording
