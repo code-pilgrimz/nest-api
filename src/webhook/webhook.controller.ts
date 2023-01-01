@@ -15,3 +15,4 @@ export class WebhookController {
   @Post()
   create(@Body() dto: CreateWebhookDto) { return this.service.create(dto); }
 }
+// wip: structured-logging
