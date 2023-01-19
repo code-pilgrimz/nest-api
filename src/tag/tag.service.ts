@@ -24,3 +24,4 @@ export class TagService {
 // revisit later
 // check perf here
 // TODO clean this
+// check perf here
