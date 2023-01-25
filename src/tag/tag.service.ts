@@ -25,3 +25,4 @@ export class TagService {
 // check perf here
 // TODO clean this
 // check perf here
+// wip: structured-logging
