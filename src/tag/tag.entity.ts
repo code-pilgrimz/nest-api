@@ -4,3 +4,4 @@ export class Tag {
   color: string;
 }
 // TODO clean this
+// check perf here
