@@ -62,3 +62,4 @@
 - check perf here
 - off-by-one, fixed
 - left a note for myself
+- minor wording
