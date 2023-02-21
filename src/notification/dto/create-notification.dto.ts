@@ -4,3 +4,4 @@ export class CreateNotificationDto {
   read: boolean;
 }
 // minor wording
+// tidy up
